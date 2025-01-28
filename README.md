@@ -13,6 +13,8 @@ Este projeto de **Análise de Dados Financeira** foi desenvolvido como parte de 
 | :sparkles: Nome        | **Análise de Dados Financeira**
 | :label: Tecnologias | Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
+![](https://esagjr.com.br/wp-content/webp-express/webp-images/uploads/2020/09/bwakeyvn-768x364.png.webp#vitrinedev)
+
 ## Detalhes do projeto
 
 Durante o desenvolvimento deste projeto, abordamos várias etapas de uma análise financeira típica:
